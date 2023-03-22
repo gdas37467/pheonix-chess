@@ -76,7 +76,7 @@ function Homepage() {
       <div
         className="w-screen h-screen bg-fixed bg-no-repeat bg-right-bottom-1 md:bg-center"
         style={{
-          backgroundImage: `url('../chess-set')`,
+          backgroundImage: `url('https://dkkit.rometheme.pro/duchess/wp-content/uploads/sites/51/2022/06/chess-set-PBRN2UXa.jpg')`,
         }}
       >
         <div className=" bg-black bg-opacity-60 overflow-y-scroll h-full w-full">
