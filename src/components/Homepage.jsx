@@ -47,7 +47,7 @@ function Homepage() {
     formData.append("payment", paymentProofFile);
     formData.append("idproof", idProofFile);
 
-    return fetch("https://phoenix-jec-chess-back.onrender.com/submit", {
+    return fetch("https://precious-khapse-e65d71.netlify.app/submit", {
       method: "POST",
       body: formData,
     })
